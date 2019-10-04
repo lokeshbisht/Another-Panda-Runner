@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Another Panda Runner</string>
+    <string name="APP_ID">ca-app-pub-9380005035766696~2179881952</string>
+    <string name="PAUSE_BANNER_AD_UNIT_ID">ca-app-pub-9380005035766696/9110028483</string>
+    <string name="GAMEOVER_BANNER_AD_UNIT_ID">ca-app-pub-9380005035766696/2916155225</string>
+    <string name="HIGHSCORE_BANNER_AD_UNIT_ID">ca-app-pub-9380005035766696/9236244896</string>
+    <string name="GAMEOVER_INTERSTITIAL_AD_UNIT_ID">ca-app-pub-9380005035766696/8058894598</string>
+
+</resources>
